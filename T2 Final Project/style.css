@@ -59,3 +59,8 @@ p{
     -webkit-filter: grayscale(30%);
     filter: grayscale(30%); 
 }
+img{
+    float: right;
+    width: 250px;
+    margin-left: 10px;
+}
